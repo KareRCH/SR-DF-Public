@@ -1,0 +1,56 @@
+{
+    "header": {
+        "type": 4,
+        "name": "Chair_0"
+    },
+    "class": 6,
+    "class_name": "AceThrow",
+    "group_key": "Throw",
+    "texture_key": "Chair_0",
+    "pos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+    },
+    "tex_pos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "tex_rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "tex_scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+    },
+    "col_pos": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "col_rot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "col_scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+    },
+    "user_strings": []
+}

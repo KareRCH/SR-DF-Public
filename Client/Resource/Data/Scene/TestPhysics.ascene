@@ -1,0 +1,232 @@
+{
+    "header": {
+        "type": 1,
+        "name": "TestPhysics"
+    },
+    "terrain": "TestPhysics",
+    "layers": [
+        {
+            "header": {
+                "type": 2,
+                "name": "Environment"
+            },
+            "priority": 0.0,
+            "objects": [
+                {
+                    "header": {
+                        "type": 3,
+                        "name": "Fourth_OneButton_Off"
+                    },
+                    "ID": 9,
+                    "class_name": "AceBuilding",
+                    "tags": [],
+                    "group_key": "Fourth",
+                    "texture_key": "OneButton_Off",
+                    "priority_update": 0.0,
+                    "use_priority_update": true,
+                    "priority_late_update": 0.0,
+                    "use_priority_late_update": true,
+                    "priority_render": 0.0,
+                    "use_priority_render": true,
+                    "pos": {
+                        "x": 0.0,
+                        "y": 1.5580981969833374,
+                        "z": 0.0
+                    },
+                    "rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 3.003598690032959,
+                        "y": 3.003598690032959,
+                        "z": 3.003598690032959
+                    },
+                    "tex_pos": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "tex_rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "tex_scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "col_pos": {
+                        "x": 0.0,
+                        "y": 1.5580981969833374,
+                        "z": 0.0
+                    },
+                    "col_rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "col_scale": {
+                        "x": 3.003598690032959,
+                        "y": 3.003598690032959,
+                        "z": 3.003598690032959
+                    },
+                    "user_strings": []
+                },
+                {
+                    "header": {
+                        "type": 3,
+                        "name": "Fourth_OneButton_Off0"
+                    },
+                    "ID": 9,
+                    "class_name": "AceBuilding",
+                    "tags": [],
+                    "group_key": "Fourth",
+                    "texture_key": "OneButton_Off",
+                    "priority_update": 0.0,
+                    "use_priority_update": true,
+                    "priority_late_update": 0.0,
+                    "use_priority_late_update": true,
+                    "priority_render": 0.0,
+                    "use_priority_render": true,
+                    "pos": {
+                        "x": 0.0,
+                        "y": 0.8347988128662109,
+                        "z": -3.538210153579712
+                    },
+                    "rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.2997121810913086,
+                        "y": 1.2997121810913086,
+                        "z": 1.2997121810913086
+                    },
+                    "tex_pos": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "tex_rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "tex_scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "col_pos": {
+                        "x": 0.0,
+                        "y": 0.8347988128662109,
+                        "z": -3.538210153579712
+                    },
+                    "col_rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "col_scale": {
+                        "x": 1.2997121810913086,
+                        "y": 1.2997121810913086,
+                        "z": 1.2997121810913086
+                    },
+                    "user_strings": []
+                }
+            ]
+        },
+        {
+            "header": {
+                "type": 2,
+                "name": "GameLogic"
+            },
+            "priority": 0.0,
+            "objects": [
+                {
+                    "header": {
+                        "type": 3,
+                        "name": "Player"
+                    },
+                    "ID": 9,
+                    "class_name": "Player",
+                    "tags": [],
+                    "group_key": "Player",
+                    "texture_key": "OpenHand",
+                    "priority_update": 0.0,
+                    "use_priority_update": true,
+                    "priority_late_update": 0.0,
+                    "use_priority_late_update": true,
+                    "priority_render": 0.0,
+                    "use_priority_render": true,
+                    "pos": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -7.323230743408203
+                    },
+                    "rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 3.0,
+                        "y": 3.0,
+                        "z": 3.0
+                    },
+                    "tex_pos": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "tex_rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "tex_scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    },
+                    "col_pos": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": -7.323230743408203
+                    },
+                    "col_rot": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "col_scale": {
+                        "x": 3.0,
+                        "y": 3.0,
+                        "z": 3.0
+                    },
+                    "user_strings": []
+                }
+            ]
+        },
+        {
+            "header": {
+                "type": 2,
+                "name": "Camera"
+            },
+            "priority": 0.0,
+            "objects": []
+        },
+        {
+            "header": {
+                "type": 2,
+                "name": "UI"
+            },
+            "priority": 0.0,
+            "objects": []
+        }
+    ]
+}

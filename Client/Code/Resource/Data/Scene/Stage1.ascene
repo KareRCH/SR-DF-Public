@@ -1,0 +1,41 @@
+{
+    "header": {
+        "type": 1,
+        "name": "Stage1"
+    },
+    "terrain": "Stage1",
+    "layers": [
+        {
+            "header": {
+                "type": 2,
+                "name": "Environment"
+            },
+            "priority": 0.0,
+            "objects": []
+        },
+        {
+            "header": {
+                "type": 2,
+                "name": "GameLogic"
+            },
+            "priority": 0.0,
+            "objects": []
+        },
+        {
+            "header": {
+                "type": 2,
+                "name": "Camera"
+            },
+            "priority": 0.0,
+            "objects": []
+        },
+        {
+            "header": {
+                "type": 2,
+                "name": "UI"
+            },
+            "priority": 0.0,
+            "objects": []
+        }
+    ]
+}
